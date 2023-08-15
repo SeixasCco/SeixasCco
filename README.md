@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SeixasCco
-- 👀 I’m interested in learning code programming in JavaScript and Delphi, currently started my long walk with the it industry.
+- 👋 Hi, I’m Raul
+- 👀 I’m interested currently working with Delphi and JavaScrip on my long way into the industry.
 - 🌱 I’m currently learning JavaScript at college, beginner, trying to learn from all the sources currently available.
 - 🌱 On the side i'm learning Delphi due to maximize all the knowledge about Front and Back End.
 - 💞️ I’m looking to collaborate on things a trainee could help, or anything you're willing to teach me, because i think that the hands on aproach is quite effective.
