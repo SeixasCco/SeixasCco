@@ -2,4 +2,4 @@
 - 👀 I’m an experienced Software Developer with a strong background in Delphi and JavaScript, passionate about building robust systems and solving complex problems.
 - 🌱 I’m currently expanding my tech stack by diving deep into Java and Spring Boot ecosystems.
 - 💞️ I’m looking to collaborate on open-source projects, architecture discussions, and initiatives where I can share my back-end expertise while exploring new paradigms.
-- 📫 How to reach me: raulalves4@gmail.com or raul_zamban@estudante.sesisenai.org.br.
+- 📫 How to reach me: raulalves4@gmail.com
